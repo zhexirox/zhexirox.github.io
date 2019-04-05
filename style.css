@@ -86,7 +86,7 @@ div.DivPrueba1 {
 	
 	/*FLEX*/
 	position: relative;
-	flex: 1 1;
+	flex: 0.9 1;
 	height: auto;
 	width: auto;
 }	
@@ -103,7 +103,7 @@ div.DivPrueba2 {
 	
 	/*FLEX*/
 	position: relative;
-	flex: 1 1;
+	flex: 0.9 1;
 	height: auto;
 	width: auto;
 }
@@ -120,7 +120,7 @@ div.DivPrueba3 {
 	
 	/*FLEX*/
 	position: relative;
-	flex: 1 1;
+	flex: 0.9 1;
 	height: auto;
 	width: auto;
 }
