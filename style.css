@@ -69,7 +69,7 @@ div.DivInicio {
 	
 	/*FLEX*/
 	position: relative;
-	flex: 1 1;
+	flex: 0.9 1;
 	height: auto;
 	width: auto;
 }
